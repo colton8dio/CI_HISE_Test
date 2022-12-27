@@ -1,0 +1,115 @@
+.*
+*.o
+*.d
+!/.gitignore
+!/.travis.yml
+!/.vscode/*
+api generator/xml
+changelog.md
+changelog.txt
+tools/api generator/xml/
+changelog*
+projects/plugin/Builds/
+projects/plugin/JuceLibraryCode/
+projects/standalone/Builds/
+extras/demo_project/Binaries/
+*.licence
+Autosave*
+thumbnails.dat
+*.hip
+extras/script_module_template/Builds
+extras/script_module_template/JuceLibraryCode
+hi_scripting/scripting/api/latex/
+hi_scripting/scripting/api/html/
+hi_dsp_library/doc/html
+extras/stereo effect project/Builds
+extras/stereo effect project/JuceLibraryCode
+JUCE old/
+tools/SDK/VST3 SDK/
+tools/SDK/ASIOSDK2.3/
+JUCE/extras/Projucer/Builds
+tools/SDK/vstsdk2.4/
+tools/SDK/AAX/
+projects/native_jit_test/Builds/MacOSX/NativeJIT Test.xcodeproj/project.xcworkspace/xcuserdata/christophhart.xcuserdatad/UserInterfaceState.xcuserstate
+projects/native_jit_test/Builds/
+projects/native_jit_test/JuceLibraryCode/
+projects/standalone/HISE Standalone.jucer
+tools/hlac_tool/Builds/
+tools/hlac_tool/JuceLibraryCode/
+tools/hlac_tool/Source/testSamples/
+tools/dsp_api/html/
+tools/floating_tile_docs/html/
+tools/hise_api/html/
+tools/hise_api/upload.ftp
+tools/scripting_api/html/
+*.tmp
+tools/auto_build/Output/
+tools/streaming_api/html/
+tools/auto_build/install_script.iss
+projects/standalone/JuceLibraryCode/
+extras/basic_expansion_project/Binaries/
+extras/mpe_demo/Binaries/
+extras/demo_project/PooledResources/
+tools/markdown_editor/Builds/
+tools/markdown_editor/JuceLibraryCode/
+tools/doc_builder/Builds/
+tools/doc_builder/JuceLibraryCode/
+tools/cpp_api_builder/xml/
+tools/cpp_api_builder/CppBuilder/Builds/
+tools/cpp_api_builder/CppBuilder/JuceLibraryCode/include_juce_audio_devices.mm
+tools/cpp_api_builder/CppBuilder/JuceLibraryCode/
+tools/cpp_api_builder/output/
+tools/cpp_api_builder/input/
+tools/jit_playground/jit_playground/JuceLibraryCode/
+tools/jit_playground/jit_playground/Builds/
+tools/snex_playground/JuceLibraryCode/BinaryData.cpp
+tools/snex_playground/Builds/VisualStudio2017/x64/Debug/App/jit_play.809191E7.tlog/CL.command.1.tlog
+tools/snex_playground/Builds/
+tools/snex_playground/JuceLibraryCode/
+hi_modules/nodes/CustomNodeInclude.cpp
+tools/rlottie/rLottie Demo/Builds/VisualStudio2017/resources.rc
+tools/rlottie/rLottie Demo/Builds/
+tools/rlottie/rLottie Demo/JuceLibraryCode/
+hi_snex/html/
+hi_snex/latex/classsnex_1_1_types_1_1_channel_ptr.tex
+hi_snex/latex/
+tools/SNEX api generator/xml/
+tools/SNEX api generator/output/apiValueTree.dat
+tools/SNEX api generator/html/
+tools/snex_workbench/JuceLibraryCode/
+tools/snex_workbench/Builds/
+tools/snex_playground/test_files/CppTest/JuceLibraryCode/
+tools/snex_playground/test_files/CppTest/Builds/
+tools/snex_playground/test_files/node.xml
+extras/demo_project/DspNetworks/DspNetworkLibrary/
+extras/demo_project/DspNetworks/Binaries/
+projects/standalone/HISE Standalone.jucer
+projects/standalone/JuceLibraryCode/AppConfig.h
+projects/standalone/JuceLibraryCode/JuceHeader.h
+tools/projucer/Projucer.app/Contents/_CodeSignature/CodeResources
+tools/projucer/Projucer.app/Contents/CodeResources
+tools/projucer/Projucer.app/Contents/Info.plist
+tools/projucer/Projucer.app/Contents/JUCECompileEngine.dylib
+tools/projucer/Projucer.app/Contents/MacOS/Projucer
+tools/projucer/Projucer.app/Contents/Resources/Icon.icns
+tools/projucer/ProjucerBAK.app/Contents/Info.plist
+tools/projucer/ProjucerBAK.app/Contents/MacOS/Projucer
+tools/projucer/ProjucerBAK.app/Contents/PkgInfo
+tools/projucer/ProjucerBAK.app/Contents/Resources/Icon.icns
+tools/projucer/ProjucerBAK.app/Contents/Resources/RecentFilesMenuTemplate.nib
+projects/standalone/HISE Standalone.jucer
+tools/snex_workbench_plugin/Builds/
+tools/snex_workbench_plugin/JuceLibraryCode/include_hi_backend.cpp
+tools/snex_workbench_plugin/JuceLibraryCode/
+extras/demo_project/AdditionalSourceCode/nodes/
+extras/hball/
+extras/demo_project/UserPresets/
+hi_snex/xml/
+# emacs backup files:
+\#*\#
+.\#*
+*~
+tools/faust/include
+tools/faust/share
+tools/faust/lib
+tools/faust/bin
